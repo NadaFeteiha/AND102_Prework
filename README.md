@@ -20,7 +20,9 @@ The following **optional** features are implemented:
 
 ## Video Walkthrough
 
-<img src='http://i.imgur.com/link/to/your/gif/file.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
+
+<img src="https://github.com/user-attachments/assets/2a3cf2bc-7dc6-4cae-bc9d-ed5951ab0ca7" alt="Screen_recording_20250731_004056" width="500" height="auto" />
+
 
 ## Notes
 
